@@ -65,7 +65,8 @@ $ python filter_fewerthan50particles.py
 
 This will open the summed mrc files with the particle coordinates overlaid. The keyboard can then be used to manully sort between micrographs into different directories.
 
-Controls
+Controls:
+
 I → move to interesting/
 G → move to good/
 N → move to notgood/
