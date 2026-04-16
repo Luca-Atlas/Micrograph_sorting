@@ -67,10 +67,10 @@ This will open the summed mrc files with the particle coordinates overlaid. The 
 
 Controls:
 
-I → move to interesting/
-G → move to good/
-N → move to notgood/
-Q → quit viewer
+- I → move to interesting/
+- G → move to good/
+- N → move to notgood/
+- Q → quit viewer
 
 # Notes
 SSD storage is strongly recommended for optimal performance
