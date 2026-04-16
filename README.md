@@ -81,4 +81,4 @@ Coordinate files are stored as:
 class_index   x   y
 Coordinates are automatically transformed for correct display in Napari
 
-All code was created with the help of ChatGPT.
+All code was created, edited and refined with the help of ChatGPT.
