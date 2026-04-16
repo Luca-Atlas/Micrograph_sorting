@@ -2,7 +2,7 @@
 Batch processing and interactive curation tools for cryo-EM micrographs. Generates filtered summed MRCs with particle coordinates from RELION STAR files, and enables rapid manual sorting via a Napari-based viewer with multi-class overlays and fast preloading.
 
 
-This repository contains two Python scripts for high-throughput preprocessing and manual curation of cryo-EM micrographs with overlaid particle coordinates from multiple classes.
+This repository contains three Python scripts for high-throughput preprocessing and manual curation of cryo-EM micrographs with overlaid particle coordinates from multiple classes.
 
 The batch_filtering script processes micrographs in bulk by summing image stacks (MRC format), applying Gaussian filtering, and exporting processed images alongside corresponding particle coordinate files. Particle coordinates are parsed from RELION STAR files and merged across classes. 
 
