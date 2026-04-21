@@ -61,7 +61,7 @@ This will count particles from the coords.txt file and move micrographs (and the
 
 3. Interactive sorting (Napari)
 
-$ python filter_fewerthan50particles.py
+$ python interactive_sorting_napari.py
 
 This will open the summed mrc files with the particle coordinates overlaid. The keyboard can then be used to manully sort between micrographs into different directories.
 
